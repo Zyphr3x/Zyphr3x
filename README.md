@@ -49,9 +49,9 @@ As a **self-taught back-end developer**, I enjoy building things that actually *
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Essential6000&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyphr3x&show_icons=true&theme=dark&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Essential6000&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyphr3x&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
